@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Text Editor",
+        "icon": "A",
+        "url": "https://yourusername.github.io/yourrepo/apps/text_editor.py"
+    },
+    {
+        "name": "Calculator",
+        "icon": "R",
+        "url": "https://yourusername.github.io/yourrepo/apps/calculator.py"
+    }
+]
